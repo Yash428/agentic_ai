@@ -3,3 +3,14 @@ langgraph
 python-dotenv
 langchain-groq
 streamlit
+wikipedia
+langchain-community
+langchain-tavily
+arxiv
+pypdf
+pymupdf
+tqdm
+langchain-text-splitters
+sentence-transformers
+faiss-cpu
+chromadb
